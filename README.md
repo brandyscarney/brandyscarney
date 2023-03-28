@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://user-images.githubusercontent.com/6577830/228083062-15029d82-8f4b-4f5d-b1a3-bdde0669c649.png">
 
-<!--
-**brandyscarney/brandyscarney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Brandy 👋
 
-Here are some ideas to get you started:
+I have been working on [Ionic Framework](https://ionicframework.com/) at [Ionic](https://ionic.io/) since 2015. Prior to working on Ionic Framework, I was building mobile apps with it. While most of my professional experience has been at Ionic, I started my career off working for transportation companies, including [CSX](https://www.csx.com/) and [GE Transportation](https://www.ge.com/research/sectors/transportation). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love that programming enables me to challenge myself every day. I am passionate about the web and I strive to keep up with the latest technologies and releases. I've been extremely lucky to see the impact my work has had on so many people worldwide. My goal has always been to develop products that provide a great user experience and improve upon them based on user feedback and technological advancements.
+
+A fun fact about me — I lived in Sicily for a few years as a child! 🏝
+
+----
+
+### Socials
+
+- [Twitter](https://twitter.com/brandyscarney)
+- [LinkedIn](https://www.linkedin.com/in/brandyscarney/)
+- [StackOverflow](https://stackoverflow.com/users/3802466/brandy-carney)
