@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/6577830/228083062-15029d82-8f4b-4f5d-b1a3-bdde0669c649.png">
+<img src="https://user-images.githubusercontent.com/6577830/228098344-e605e52c-306a-49f1-bf33-62753856033c.png">
+
 
 ### Hi, I'm Brandy 👋
 
