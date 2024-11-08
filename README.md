@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/6577830/228098344-e605e52c-306a-49f1-bf33-62753856033c.png">
-
-
 ### Hi, I'm Brandy 👋
 
 I have been working on [Ionic Framework](https://ionicframework.com/) at [Ionic](https://ionic.io/) since 2015. Prior to working on Ionic Framework, I was building mobile apps with it. While most of my professional experience has been at Ionic, I started my career off working for transportation companies, including [CSX](https://www.csx.com/) and [GE Transportation](https://www.ge.com/research/sectors/transportation). 
